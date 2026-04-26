@@ -37,7 +37,7 @@ python main.py
 ```
 
 ## 📸 Sample Output
-
+(output.png)
 ## 📊 Output Graph
 
 ![Budget vs Actual](Comparison_graph.png)
