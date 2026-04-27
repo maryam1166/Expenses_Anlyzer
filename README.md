@@ -42,5 +42,5 @@ python main.py
 
 ![Budget vs Actual](Comparison_graph.png)
 ## Author
-MARYAM ZAHRA
-Electrical Engineering GRADUATE | Data & Power Systems Enthusiast
+_**MARYAM ZAHRA**_
+(Electrical Engineering GRADUATE | Data & Power Systems Enthusiast)
